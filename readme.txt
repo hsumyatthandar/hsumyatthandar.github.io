@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
+Here is my personal web
 
-Theme Name: Lonely
-Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
